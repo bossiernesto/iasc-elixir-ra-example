@@ -5,8 +5,6 @@ Example distributed Key/Value cluster using [RabbitMQ's RAFT implementation](htt
 ## Installation
 
 ```bash
-git clone https://github.com/joshnuss/river.git
-cd river
 mix do deps.get, compile
 ```
 

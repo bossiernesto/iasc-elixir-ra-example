@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :river, key: :value
+#     config :iasc_ra_example, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:river, :key)
+#     Application.get_env(:iasc_ra_example, :key)
 #
 # You can also configure a third-party app:
 #
